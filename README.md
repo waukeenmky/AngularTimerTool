@@ -39,11 +39,10 @@ Video Link: [https://www.youtube.com/watch?v=u_vMChpZMCk&feature=emb_logo]
 
 ## Screenshots
 
-This is the app when you open it.
+This is the app when you open it
+
 ![angular1](https://user-images.githubusercontent.com/69509445/90145620-b2172580-ddb2-11ea-9612-21e3bf98b110.png)
 
 This is when you input value, the progress bar will run until the timer ends.
+
 ![angular2](https://user-images.githubusercontent.com/69509445/90145623-b2afbc00-ddb2-11ea-8103-e2d7c21310e1.png)
-
-
-
