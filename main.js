@@ -10,7 +10,7 @@ function createWindow () {
     backgroundColor: '#ffffff',
     // icon: `file://${__dirname}/dist/assets/logo.png`
   })
-
+  win.setMenuBarVisibility(false)
 
   win.loadURL(`file://${__dirname}/dist/index.html`)
 
