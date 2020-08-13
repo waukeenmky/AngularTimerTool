@@ -1,0 +1,60 @@
+.content { 
+  width: 500px;
+  height: 400px;
+  text-align: center;
+  padding: 50px;
+  margin: auto;
+}
+.progress-wrapper {
+  position: relative;
+  margin: 20px auto;
+  font-size: 20px;
+
+  .text {
+    position: absolute;
+    color: #9B9B9B;
+    font-weight: 100;
+    line-height: 1;
+
+    top: 80%;
+    bottom: auto;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    font-size: 20px;
+  }
+
+}
+
+round-progress { 
+  margin: auto;
+}
+
+.controls-wrapper {
+  text-align: center;
+  margin: auto;
+}
+
+.input { 
+  text-align: center;
+  margin: auto;
+  max-width: 250px;
+  display: block;
+  margin-bottom: 10px;
+}
+.input:active { 
+  border-color: cadetblue;
+}
+
+#mainText{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 40px;
+
+}
+
+body html{
+  overflow: hidden;
+}
+
+.is-info{
+  background-color: black;
+}
