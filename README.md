@@ -24,7 +24,7 @@ A simple countdown timer made with electron and angular.
 3. Install NPM Packages
 ```bash
     npm install 
-    npm install electron
+    npm install electron --save-dev
 ```
 4. Run the Application
 ```bash
